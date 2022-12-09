@@ -54,17 +54,17 @@
 # _________
 
 # Lab 3 distribution :
-- Function 1(student_schools_dictionary): Kezi Afulukwe 
+- Function 1(student_schools_dictionary): Giovanni Utano
 - Function 2(student_health_dictionary): Maria Parkhomchuk
-- Function 3(Student_age_dictionary): Giovanni Utano
+- Function 3(Student_age_dictionary): Kezi Afulukwe
 - Function 4(student_failures_dictionary): Akindu Silva 
-- Function 5(load_data):
-- Function 6(add_average):
+- Function 5(load_data): Kezi Afulukwe
+- Function 6(add_average): Giovanni Utano
 
 # lab 4 distribution :
-- Test 1(Dictionary Keys):
-- Test 2(Dictionary Values- Size of lists):
-- Test 3(Dictionary Values- Individual student entries):
+- Test 1(Dictionary Keys): Giovanni Utano
+- Test 2(Dictionary Values- Size of lists): Maria Parkhomchuk
+- Test 3(Dictionary Values- Individual student entries): Kezi Afulukwe
 - Test 4(add average): Akindu Silva
 
 # lab 5 distribution :
